@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Log",
+        "repositoryURL": "https://github.com/swwol/Log-spm/",
+        "state": {
+          "branch": null,
+          "revision": "8f7011f1119a1dde378d6e01189c7d9eb1011804",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "Reachability",
+        "repositoryURL": "https://github.com/ashleymills/Reachability.swift",
+        "state": {
+          "branch": null,
+          "revision": "6c8652a8ea35a64cf36367d07b3d6e5e6a24b272",
+          "version": "4.3.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
